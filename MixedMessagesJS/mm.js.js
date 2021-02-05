@@ -1,4 +1,4 @@
-mm.js
+
 let bibleQuotes = (opening, quote, closing) => {
 return { 
     opening: opening,
