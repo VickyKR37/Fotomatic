@@ -404,6 +404,7 @@ footer {
 footer .content {
   color: white;
   display: flex;
+<<<<<<< HEAD
   font-size: 16px;
 }
 
@@ -411,6 +412,7 @@ footer .copyright {
   flex-grow: 1;
 }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 760px) {
   footer .content {
     font-size: .625rem;
